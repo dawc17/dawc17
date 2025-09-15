@@ -2,5 +2,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dawc17&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # i like program
-been on a hiatus for a while, coming back very soon
-expect that streak to be high
+yes
