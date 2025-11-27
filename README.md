@@ -12,5 +12,6 @@ My passion is programming all kinds of things, from web stores in React, to game
 | --- | --- |
 | [NEAS Web Shop - commisioned by my employers](https://github.com/dawc17/neas-nettbutikk) | JavaScript |
 | [C++ chat terminal app - most of my C++ knowledge came from building this](https://github.com/dawc17/FelegramchikNative) | C++ |
+| [Engine - quintessential Minecraft clone made with OpenGL and C++](https://github.com/dawc17/Engine) | C++ |
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dawc17)](https://git.io/streak-stats)
