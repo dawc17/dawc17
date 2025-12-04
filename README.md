@@ -2,7 +2,7 @@
 
 I'm a 17 year old computer science student from Poland, living in Norway!
 
-My main programming languages are C, C# and Python (I like a little bit of everything though).
+My main programming languages are C/C++, C# and Python (I like a little bit of everything though).
 Currently I have an internship at NEAS, a local IT and power company in my area.
 
 My passion is programming all kinds of things, from web stores in React, to games using libraries such as Raylib in C.
