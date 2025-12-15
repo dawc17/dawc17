@@ -1,6 +1,6 @@
 # hi guys i'm dawid
 
-I'm a 17 year old computer science student from Poland, living in Norway!
+i'm a 17 year old computer science student from Poland, living in Norway!
 
 My main programming languages are C/C++, C# and Python (I like a little bit of everything though).
 Currently I have an internship at NEAS, a local IT and power company in my area.
