@@ -1,13 +1,13 @@
 # hi guys i'm dawid
 
-i'm a 17 year old computer science student from Poland, living in Norway!
+i'm a 17 year old computer science student from poland, living in norway!
 
-My main programming languages are C/C++, C# and Python (I like a little bit of everything though).
-Currently I have an internship at NEAS, a local IT and power company in my area.
+my main programming languages are C/C++, C# and Python (i like a little bit of everything though).
+currently i have an internship at NEAS, a local IT and power company in my area.
 
-My passion is programming all kinds of things, from web stores in React, to games using libraries such as Raylib in C.
+my passion is programming all kinds of things, from web stores in React, to games using libraries such as Raylib in C.
 
-### My most notable projects so far
+### my most notable projects so far
 | Project | Language |
 | --- | --- |
 | [NEAS Web Shop - commisioned by my employers](https://github.com/dawc17/neas-nettbutikk) | JavaScript |
