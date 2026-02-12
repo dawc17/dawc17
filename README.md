@@ -16,3 +16,4 @@ my passion is programming all kinds of things, from web stores in React, to game
 | [C++ chat terminal app](https://github.com/dawc17/FelegramchikNative) | C++ |
 | [Engine - quintessential Minecraft clone made with OpenGL and C++](https://github.com/dawc17/Engine) | C++ |
 | [FlavorLineTool - a cli app for interacting with Flavortown by Hack Club](https://github.com/dawc17/FlavorLineTool) | Python |
+| [John Flavortown](https://github.com/dawc17/John-Flavortown) | Python | 
