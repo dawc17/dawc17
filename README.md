@@ -7,6 +7,8 @@ currently i have an internship at NEAS, a local IT and power company in my area.
 
 my passion is programming all kinds of things, from web stores in React, to games using libraries such as Raylib in C.
 
+![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=24918&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark)
+
 ### my most notable projects so far
 | Project | Language |
 | --- | --- |
