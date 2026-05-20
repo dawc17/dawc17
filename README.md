@@ -17,6 +17,7 @@ my passion is programming all kinds of things, from web stores in React, to game
 | [Engine - quintessential Minecraft clone made with OpenGL and C++](https://github.com/dawc17/Engine) | C++ |
 | [FlavorLineTool - a cli app for interacting with Flavortown by Hack Club](https://github.com/dawc17/FlavorLineTool) | Python |
 | [John Flavortown - a Discord bot for also interacting with Flavortown](https://github.com/dawc17/John-Flavortown) | Python | 
+| [OperateMySystem - pet project, a 32-bit operating system](https://github.com/dawc17/OperateMySystem) | C++ |
 
 ### projects i have contributed significantly to
 | Project | Language |
