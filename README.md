@@ -5,7 +5,7 @@ i'm a 17 year old computer science student from poland, living in norway!
 my main programming languages are C/C++ and Python (i like a little bit of everything though).
 currently i have an internship at NEAS, a local IT and power company in my area!
 
-my passion is programming all kinds of things, from web stores in React, to games using libraries such as Raylib in C.
+my biggest passion is programming all kinds of things, from web stores in React, to games using libraries such as Raylib in C.
 
 ![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=24918&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark)
 
