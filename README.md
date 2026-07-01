@@ -17,7 +17,7 @@ my biggest passion is programming all kinds of things, from web stores in React,
 | [FlavorLineTool - a cli app for interacting with Flavortown by Hack Club](https://github.com/dawc17/FlavorLineTool) | Python |
 | [John Flavortown - a Discord bot for also interacting with Flavortown](https://github.com/dawc17/John-Flavortown) | Python | 
 | [OperateMySystem - pet project, a 32-bit operating system](https://github.com/dawc17/OperateMySystem) | C++ / Assembly |
-| [Apoplexy - upcoming FPS of mine](https://github.com/dawc17/Apoplexy) | C++ |
+| [Apoplexy - upcoming FPS of mine](https://github.com/dawc17/Apoplexy) | C# |
 
 ### projects i have contributed significantly to
 | Project | Language |
