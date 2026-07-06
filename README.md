@@ -22,6 +22,6 @@ my biggest passion is programming all kinds of things, from web stores in React,
 ### projects i have contributed significantly to
 | Project | Language |
 | --- | --- |
-| [TKDataModLoader (closed source for now)](https://github.com/umin135/Polaris_TKDataModLoader) | C++ |
+| [TKDataModLoader (closed source)](https://github.com/umin135/Polaris_TKDataModLoader) | C++ |
 | [TKDataModEditor](https://github.com/umin135/Polaris_TKDataModEditor) | C++ |
 
