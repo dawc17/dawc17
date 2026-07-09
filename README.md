@@ -1,4 +1,4 @@
-# hi i'm dawid!
+# hi i'm dawid
 
 i'm a 17 year old computer science student from poland, living in norway!
 
