@@ -1,7 +1,5 @@
 # hi i'm dawid
 
-i'm an 18 year old computer science student from poland, living in norway!
-
 my main programming languages are C/C++ and Python (i like a little bit of everything though).
 currently i have an internship at NEAS, a local IT and power company in my area!
 
@@ -17,7 +15,8 @@ my biggest passion is programming all kinds of things, from web stores in React,
 | [FlavorLineTool - a cli app for interacting with Flavortown by Hack Club](https://github.com/dawc17/FlavorLineTool) | Python |
 | [John Flavortown - a Discord bot for also interacting with Flavortown](https://github.com/dawc17/John-Flavortown) | Python | 
 | [OperateMySystem - pet project, a 32-bit operating system](https://github.com/dawc17/OperateMySystem) | C++ / Assembly |
-| [Apoplexy - upcoming FPS of mine](https://github.com/dawc17/Apoplexy) | C# |
+| [Apoplexy - upcoming FPS of mine](https://github.com/dawc17/Apoplexy) | C# - Unity |
+| [Project Eclipse - a Shadow Fight 2 modding engine](https://github.com/dawc17/ProjectEclipse) | C# - Unity |
 
 ### projects i have contributed significantly to
 | Project | Language |
