@@ -16,7 +16,6 @@ my biggest passion is programming all kinds of things, from web stores in React,
 | [John Flavortown - a Discord bot for also interacting with Flavortown](https://github.com/dawc17/John-Flavortown) | Python | 
 | [OperateMySystem - pet project, a 32-bit operating system](https://github.com/dawc17/OperateMySystem) | C++ / Assembly |
 | [Apoplexy - upcoming FPS of mine](https://github.com/dawc17/Apoplexy) | C# - Unity |
-| [Project Eclipse - a Shadow Fight 2 modding engine](https://github.com/dawc17/ProjectEclipse) | C# - Unity |
 
 ### projects i have contributed significantly to
 | Project | Language |
